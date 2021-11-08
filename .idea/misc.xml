@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Progs/Android/Projekti/StepCounterApp/app/src/main/res/layout/activity_fit_apiactivity.xml" value="0.20208333333333334" />
         <entry key="..\:/Progs/Android/Projekti/StepCounterApp/app/src/main/res/layout/activity_main.xml" value="0.29528985507246375" />
         <entry key="..\:/Progs/Android/Projekti/StepCounterApp/app/src/main/res/layout/activity_main2.xml" value="0.20052083333333334" />
+        <entry key="..\:/Progs/Android/Projekti/StepCounterApp/app/src/main/res/layout/activity_my_app.xml" value="0.24427083333333333" />
+        <entry key="..\:/Progs/Android/Projekti/StepCounterApp/app/src/main/res/layout/activity_proba.xml" value="0.12447916666666667" />
       </map>
     </option>
   </component>
